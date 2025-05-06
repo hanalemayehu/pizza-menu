@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+<<<<<<< HEAD
+# pizza-menu
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# pizza-menu
+0e372614a354ac933e74f7f0305ad88e79417539
+>>>>>>> 
